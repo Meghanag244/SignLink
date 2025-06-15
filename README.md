@@ -2,9 +2,15 @@
 
 ## Bridging Communication Through Deep Learning
 
-![SignLink Demo Placeholder](https://via.placeholder.com/800x450?text=SignLink+Live+Demo)
+<img width="1470" alt="1" src="https://github.com/user-attachments/assets/dbcfce49-1c0c-4caa-b256-da9c4303314d" />
 
 SignLink is an innovative web application designed to facilitate seamless communication between the deaf and hard-of-hearing community and the hearing world. Leveraging cutting-edge deep learning and computer vision, SignLink provides real-time sign language interpretation and text-to-sign conversion, aiming to foster a more inclusive and connected society.
+
+<img width="1470" alt="9" src="https://github.com/user-attachments/assets/c9debf56-50b3-45fb-bb2d-cd6bb563ab03" />
+![10](https://github.com/user-attachments/assets/4f468062-719a-4413-9333-32902af370df)
+<img width="1454" alt="8" src="https://github.com/user-attachments/assets/7820370a-c2b1-4a2e-a71b-cf830be04474" />
+<img width="1470" alt="6" src="https://github.com/user-attachments/assets/6102c42e-4b6d-4502-ba8b-a8c8ed3e6e42" />
+<img width="1466" alt="7" src="https://github.com/user-attachments/assets/0b1aab7d-5a21-4b3a-b2a3-731bdd9a8842" />
 
 ---
 
@@ -16,6 +22,11 @@ SignLink is an innovative web application designed to facilitate seamless commun
 *   **Chat History:** Keep track of past interpreted conversations.
 *   **Customizable Settings:** Personalize the application experience (e.g., webcam source, model sensitivity).
 *   **Modern & Responsive UI:** A user-friendly and aesthetically pleasing interface designed for various devices.
+
+<img width="1466" alt="2" src="https://github.com/user-attachments/assets/0f8fab9c-2a17-4baa-b8ab-f287c092d31b" />
+<img width="1467" alt="3" src="https://github.com/user-attachments/assets/13d823b3-b341-4075-91bc-0216ce800f5a" />
+<img width="1468" alt="4" src="https://github.com/user-attachments/assets/bd9d35a6-398d-4319-a2f8-03d534ce42c7" />
+<img width="1468" alt="5" src="https://github.com/user-attachments/assets/d95448fe-0a16-4681-8fe0-2fa8163c2620" />
 
 ---
 

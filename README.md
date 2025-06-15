@@ -147,7 +147,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgements
 
 *   Thanks to the open-source community for amazing libraries like React, TensorFlow.js, and Tailwind CSS.
-*   Special thanks to [Your Name/Team Name] for the dedication to making communication more accessible.
 
 ---
 
@@ -157,11 +156,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Language](https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshbg%2FSign-Language-Interpreter-using-Deep-Learning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-# Sign Language Interpreter using Deep Learning
-> A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](https://link.harshgupta.com/acd72). 
 
 ## Table of contents
 * [General info](#general-info)
@@ -177,34 +171,7 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 
 ## General info
 
-The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with a disability. 
 We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
-
-## Demo
-![Example screenshot](./img/demo4.gif)
-
-
-
-![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
-
-
-**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/acd72).**
-
-
-## Screenshots
-
-![Example screenshot](./img/Capture1.PNG)
-![Example screenshot](./img/Capture.PNG)
-
-## Technologies and Tools
-* Python 
-* TensorFlow
-* Keras
-* OpenCV
 
 ## Setup
 
@@ -218,7 +185,6 @@ This will help you in installing all the libraries required for the project.
 
 * Run `set_hand_histogram.py` to set the hand histogram for creating gestures. 
 * Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
-* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
 * Add different variations to the captured gestures by flipping all the images by using `Rotate_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
 * To view all the gestures, run `display_gestures.py` .
@@ -317,21 +283,4 @@ Features that can be added:
 * Increase the vocabulary of our model
 * Incorporate feedback mechanism to make the model more robust
 * Add more sign languages
-
-## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). 
-
-## Contact
-Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
-
-Subscribe to my [newsletter](https://upswing.substack.com/) and unlock the secrets to becoming a 10X Data Scientist! 
-
-If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@harshgupta.com" target="_blank">email</a>, 
-<a href="https://link.harshgupta.com/c9a5b" target="_blank">LinkedIn</a>, or 
-<a href="https://link.harshgupta.com/34c63" target="_blank">Twitter</a>. 
-My other projects can be found [here](https://link.harshgupta.com/85f2e).
-
-[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](https://link.harshgupta.com/e144a)
-[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](https://link.harshgupta.com/34c63)
 

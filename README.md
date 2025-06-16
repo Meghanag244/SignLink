@@ -149,17 +149,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *   Thanks to the open-source community for amazing libraries like React, TensorFlow.js, and Tailwind CSS.
 
 ---
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Demo](#demo)
-* [Technologies and Tools](#technologies-and-tools)
-* [Setup](#setup)
-* [Process](#process)
-* [Code Examples](#code-examples)
-* [Features](#features)
-* [Status](#status)
-* [Contact](#contact)
 
 ## General info
 
@@ -176,7 +165,7 @@ This will help you in installing all the libraries required for the project.
 ## Process
 
 * Run `set_hand_histogram.py` to set the hand histogram for creating gestures. 
-* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
+* Once you get a good histogram, save it in the code folder
 * Add different variations to the captured gestures by flipping all the images by using `Rotate_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
 * To view all the gestures, run `display_gestures.py` .
